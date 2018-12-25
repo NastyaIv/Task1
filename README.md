@@ -1,7 +1,7 @@
 # Task1
 ## Инструкция
 1. Открыть ivakhnenko_hw_1.ipynb с помощью Jupyter Notebook (https://jupyter.org/ он также встроен в Anaconda)
-2. Данные поместить в папку с ivakhnenko_hw_1.ipynb
+2. Данные поместить в папку с ivakhnenko_hw_1.ipynb (в распакованном виде)
 3. Изменить переменную path в соответствии с директорией, куда Вы сохранили данные и тетрадку ivakhnenko_hw_1.ipynb
 4. Установить MySQL (https://dev.mysql.com/downloads/installer/)
 5. Обновить пакет pandas до последней версии командной строке anaconda (pip install --upgrade pandas)
